@@ -8,8 +8,8 @@
     </div>
 
     <div class="text-box">
-      <div class="tile-header">{{ colors.hex }} {{ isSelected }}</div>
-      <div class="tile-sub">{{ colors.name }}</div>
+      <h4 class="tile-header">{{ colors.hex }}</h4>
+      <p class="tile-sub">{{ colors.name }}</p>
     </div>
     <yarn-library
       v-show="isSelected"

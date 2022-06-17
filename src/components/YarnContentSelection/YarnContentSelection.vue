@@ -5,6 +5,7 @@
       :key="index"
       :colors="item"
       :index="index"
+      data-test="selectedColors"
     />
   </div>
 </template>

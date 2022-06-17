@@ -15,7 +15,7 @@
 </template>
 
 <script>
-import { mapGetters } from 'vuex';
+
 import yarnColors from "../../data/yarn-colors.json"
 
 export default {
@@ -32,9 +32,6 @@ export default {
     colors:yarnColors,
     count: this.$store.state.name
   }
- },
- computed:{
- ...mapGetters(['getCount'])
  },
  methods:{
   newPickHandler(value){
