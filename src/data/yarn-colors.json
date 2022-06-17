@@ -1,0 +1,791 @@
+{
+    "yarnColors": [
+      {
+        "pantoneId": "11-0602 TCX",
+        "hex": "#F2F0EB",
+        "name": "Snow White",
+        "type": ["synthetic"]
+      },
+      {
+        "pantoneId": "11-4201 TCX",
+        "hex": "#F0EEE9",
+        "name": "Cloud Dancer",
+        "type": ["natural", "synthetic"]
+      },
+      {
+        "pantoneId": "12-0104 TCX",
+        "hex": "#E1DBC8",
+        "name": "White Asparagus",
+        "type": ["natural"]
+      },
+      {
+        "pantoneId": "12-0806 TCX",
+        "hex": "#EDDCBE",
+        "name": "Rutabaga",
+        "type": ["synthetic"]
+      },
+      {
+        "pantoneId": "12-0811 TCX",
+        "hex": "#EBD2B7",
+        "name": "Dawn",
+        "type": ["synthetic"]
+      },
+      {
+        "pantoneId": "12-2905 TCX",
+        "hex": "#EDD0DD",
+        "name": "Cradle Pink",
+        "type": ["synthetic"]
+      },
+      {
+        "pantoneId": "13-0403 TCX",
+        "hex": "#CABEB5",
+        "name": "Gray Morn",
+        "type": ["natural"]
+      },
+      {
+        "pantoneId": "13-2006 TCX",
+        "hex": "#F5BEC7",
+        "name": "Almond Blossom",
+        "type": ["natural"]
+      },
+      {
+        "pantoneId": "14-0108 TCX",
+        "hex": "#C9C0AB",
+        "name": "Castle Wall",
+        "type": ["synthetic"]
+      },
+      {
+        "pantoneId": "14-0121 TCX",
+        "hex": "#A7C796",
+        "name": "Nile Green",
+        "type": ["synthetic"]
+      },
+      {
+        "pantoneId": "14-0756 TCX",
+        "hex": "#EEC843",
+        "name": "Maize",
+        "type": ["natural"]
+      },
+      {
+        "pantoneId": "14-0951 TCX",
+        "hex": "#E2A829",
+        "name": "Golden Rod",
+        "type": ["synthetic"]
+      },
+      {
+        "pantoneId": "14-1116 TCX",
+        "hex": "#CCB390",
+        "name": "Almond Buff",
+        "type": ["natural"]
+      },
+      {
+        "pantoneId": "14-1210 TCX",
+        "hex": "#D8C0AD",
+        "name": "Shifting Sand",
+        "type": ["natural"]
+      },
+      {
+        "pantoneId": "14-4203 TCX",
+        "hex": "#BEBDBD",
+        "name": "Vapor Blue",
+        "type": ["synthetic"]
+      },
+      {
+        "pantoneId": "14-4516 TCX",
+        "hex": "#87C2D4",
+        "name": "Petit Four",
+        "type": ["natural"]
+      },
+      {
+        "pantoneId": "15-1306 TCX",
+        "hex": "#B8A99A",
+        "name": "Oxford Tan",
+        "type": ["synthetic"]
+      },
+      {
+        "pantoneId": "15-4502 TCX",
+        "hex": "#BEB7B0",
+        "name": "Silver Cloud",
+        "type": ["natural"]
+      },
+      {
+        "pantoneId": "15-5534 TCX",
+        "hex": "#009B5C",
+        "name": "Bright Green",
+        "type": ["natural", "synthetic"]
+      },
+      {
+        "pantoneId": "15-6315 TCX",
+        "hex": "#A8BBA2",
+        "name": "Smoke Green",
+        "type": ["synthetic"]
+      },
+      {
+        "pantoneId": "15-6442 TCX",
+        "hex": "#79B465",
+        "name": "Bud Green",
+        "type": ["synthetic"]
+      },
+      {
+        "pantoneId": "16-0928 TCX",
+        "hex": "#BE9E6F",
+        "name": "Curry",
+        "type": ["synthetic"]
+      },
+      {
+        "pantoneId": "16-0953 TCX",
+        "hex": "#C4962C",
+        "name": "Tawny Olive",
+        "type": ["synthetic"]
+      },
+      {
+        "pantoneId": "16-1334 TCX",
+        "hex": "#B69574",
+        "name": "Tan",
+        "type": ["natural", "synthetic"]
+      },
+      {
+        "pantoneId": "16-1149 TCX",
+        "hex": "#C87629",
+        "name": "Desert Sun",
+        "type": ["synthetic"]
+      },
+      {
+        "pantoneId": "19-5004 TCX",
+        "hex": "#474E4D",
+        "name": "Urban Chic",
+        "type": ["synthetic"]
+      },
+      {
+        "pantoneId": "14-4002 TCX",
+        "hex": "#CAC5C2",
+        "name": "Wind Chime",
+        "type": ["synthetic"]
+      },
+      {
+        "pantoneId": "16-1337 TCX",
+        "hex": "#D27D56",
+        "name": "Coral Gold",
+        "type": ["synthetic"]
+      },
+      {
+        "pantoneId": "16-1349 TCX",
+        "hex": "#F3774D",
+        "name": "Coral Rose",
+        "type": ["natural"]
+      },
+      {
+        "pantoneId": "16-1356 TCX",
+        "hex": "#F47327",
+        "name": "Persimmon Orange",
+        "type": ["synthetic"]
+      },
+      {
+        "pantoneId": "16-1449 TCX",
+        "hex": "#B45422",
+        "name": "Gold Flame",
+        "type": ["synthetic"]
+      },
+      {
+        "pantoneId": "16-4529 TCX",
+        "hex": "#15A3C7",
+        "name": "Cyan Blue",
+        "type": ["natural"]
+      },
+      {
+        "pantoneId": "16-6008 TCX",
+        "hex": "#959889",
+        "name": "Seagrass",
+        "type": ["synthetic"]
+      },
+      {
+        "pantoneId": "17-0207 TCX",
+        "hex": "#918C86",
+        "name": "Rock Ridge",
+        "type": ["synthetic"]
+      },
+      {
+        "pantoneId": "17-0235 TCX",
+        "hex": "#769358",
+        "name": "Piquant Green",
+        "type": ["synthetic"]
+      },
+      {
+        "pantoneId": "17-1842 TCX",
+        "hex": "#D42E5B",
+        "name": "Azalea",
+        "type": ["natural"]
+      },
+      {
+        "pantoneId": "18-0201 TCX",
+        "hex": "#5F5E62",
+        "name": "Castlerock",
+        "type": ["natural"]
+      },
+      {
+        "pantoneId": "16-1448 TCX",
+        "hex": "#C86733",
+        "name": "Burnt Orange",
+        "type": ["synthetic"]
+      },
+      {
+        "pantoneId": "18-0933 TCX",
+        "hex": "#815B37",
+        "name": "Rubber",
+        "type": ["synthetic"]
+      },
+      {
+        "pantoneId": "18-1140 TCX",
+        "hex": "#8C543B",
+        "name": "Mocha Bisque",
+        "type": ["natural"]
+      },
+      {
+        "pantoneId": "18-1664 TCX",
+        "hex": "#BD162C",
+        "name": "Racing Red",
+        "type": ["natural", "synthetic"]
+      },
+      {
+        "pantoneId": "18-4023 TCX",
+        "hex": "#3B5F78",
+        "name": "Blue Ashes",
+        "type": ["synthetic"]
+      },
+      {
+        "pantoneId": "19-0201 TCX",
+        "hex": "#444447",
+        "name": "Asphalt",
+        "type": ["natural", "synthetic"]
+      },
+      {
+        "pantoneId": "19-0230 TCX",
+        "hex": "#495E35",
+        "name": "Garden Green",
+        "type": ["synthetic"]
+      },
+      {
+        "pantoneId": "19-0419 TCX",
+        "hex": "#424832",
+        "name": "Rifle Green",
+        "type": ["natural"]
+      },
+      {
+        "pantoneId": "19-0516 TCX",
+        "hex": "#574D35",
+        "name": "Dark Olive",
+        "type": ["synthetic"]
+      },
+      {
+        "pantoneId": "19-0712 TCX",
+        "hex": "#40312F",
+        "name": "Coffee Bean",
+        "type": ["natural"]
+      },
+      {
+        "pantoneId": "19-1106 TCX",
+        "hex": "#392D2B",
+        "name": "Molé",
+        "type": ["synthetic"]
+      },
+      {
+        "pantoneId": "19-1217 TCX",
+        "hex": "#684B40",
+        "name": "Mustang",
+        "type": ["synthetic"]
+      },
+      {
+        "pantoneId": "19-1718 TCX",
+        "hex": "#582B36",
+        "name": "Windsor Wine",
+        "type": ["natural"]
+      },
+      {
+        "pantoneId": "19-1862 TCX",
+        "hex": "#9E1030",
+        "name": "Jester Red",
+        "type": ["synthetic"]
+      },
+      {
+        "pantoneId": "19-2428 TCX",
+        "hex": "#6C244C",
+        "name": "Magenta Purple",
+        "type": ["natural"]
+      },
+      {
+        "pantoneId": "19-3922 TCX",
+        "hex": "#262934",
+        "name": "Sky Captain",
+        "type": ["natural"]
+      },
+      {
+        "pantoneId": "19-3925 TCX",
+        "hex": "#363756",
+        "name": "Patriot Blue",
+        "type": ["synthetic"]
+      },
+      {
+        "pantoneId": "19-3938 TCX",
+        "hex": "#313D64",
+        "name": "Twilight Blue",
+        "type": ["natural", "synthetic"]
+      },
+      {
+        "pantoneId": "18-3935 TCX",
+        "hex": "#6479B3",
+        "name": "Wedgewood",
+        "type": ["natural"]
+      },
+      {
+        "pantoneId": "15-4030 TCX",
+        "hex": "#9EB4D3",
+        "name": "Chambray Blue",
+        "type": ["natural"]
+      },
+      {
+        "pantoneId": "11-4300 TCX",
+        "hex": "#F0EEE4",
+        "name": "Marshmallow",
+        "type": ["natural"]
+      },
+      {
+        "pantoneId": "19-3909 TCX",
+        "hex": "#2E272A",
+        "name": "Black Bean",
+        "type": ["natural"]
+      },
+      {
+        "pantoneId": "19-4203 TCX",
+        "hex": "#2F2D30",
+        "name": "Moonless Night",
+        "type": ["natural"]
+      },
+      {
+        "pantoneId": "19-4007 TCX",
+        "hex": "#28282D",
+        "name": "Anthracite",
+        "type": ["synthetic"]
+      },
+      {
+        "pantoneId": "19-3903 TCX",
+        "hex": "#4A3F41",
+        "name": "Shale",
+        "type": ["synthetic"]
+      },
+      {
+        "pantoneId": "19-3933 TCX",
+        "hex": "#2A304E",
+        "name": "Medieval Blue",
+        "type": ["synthetic"]
+      },
+      {
+        "pantoneId": "19-4118 TCX",
+        "hex": "#36465E",
+        "name": "Dark Denim",
+        "type": ["synthetic"]
+      },
+      {
+        "pantoneId": "19-4024 TCX",
+        "hex": "#2A3244",
+        "name": "Dress Blues",
+        "type": ["synthetic"]
+      },
+      {
+        "pantoneId": "19-4057 TCX",
+        "hex": "#1F4477",
+        "name": "True Blue",
+        "type": ["natural"]
+      },
+      {
+        "pantoneId": "19-4726 TCX",
+        "hex": "#274E55",
+        "name": "Atlantic Deep",
+        "type": ["synthetic"]
+      },
+      {
+        "pantoneId": "19-5406 TCX",
+        "hex": "#223631",
+        "name": "Pine Grove",
+        "type": ["natural"]
+      },
+      {
+        "pantoneId": "19-6050 TCX",
+        "hex": "#264E36",
+        "name": "Eden",
+        "type": ["synthetic"]
+      },
+      {
+        "pantoneId": "19-4004 TCX",
+        "hex": "#2A2B2D",
+        "name": "Tap Shoe",
+        "type": ["natural", "synthetic"]
+      },
+      {
+        "pantoneId": "16-3800 TCX",
+        "hex": "#978D89",
+        "name": "Satellite",
+        "type": ["synthetic"]
+      },
+      {
+        "pantoneId": "18-3949 TCX",
+        "hex": "#3950A0",
+        "name": "Dazzling Blue",
+        "type": ["synthetic"]
+      },
+      {
+        "pantoneId": "14-4310 TCX",
+        "hex": "#78BDD4",
+        "name": "Blue Topaz",
+        "type": ["synthetic"]
+      },
+      {
+        "pantoneId": "17-6229 TCX",
+        "hex": "#3C824E",
+        "name": "Medium Green",
+        "type": ["synthetic"]
+      },
+      {
+        "pantoneId": "18-0130 TCX",
+        "hex": "#53713D",
+        "name": "Cactus",
+        "type": ["synthetic"]
+      },
+      {
+        "pantoneId": "14-0957 TCX",
+        "hex": "#F7B718",
+        "name": "Spectra Yellow",
+        "type": ["synthetic"]
+      },
+      {
+        "pantoneId": "16-1720 TCX",
+        "hex": "#E78B90",
+        "name": "Strawberry Ice",
+        "type": ["synthetic"]
+      },
+      {
+        "pantoneId": "18-1663 TCX",
+        "hex": "#BE132D",
+        "name": "Chinese Red",
+        "type": ["synthetic"]
+      },
+      {
+        "pantoneId": "19-1320 TCX",
+        "hex": "#6E3F3C",
+        "name": "Sable",
+        "type": ["synthetic"]
+      },
+      {
+        "pantoneId": "17-1134 TCX",
+        "hex": "#A17249",
+        "name": "Brown Sugar",
+        "type": ["synthetic"]
+      },
+      {
+        "pantoneId": "13-1010 TCX",
+        "hex": "#E5CCAF",
+        "name": "Gray Sand",
+        "type": ["synthetic"]
+      },
+      {
+        "pantoneId": "18-1027 TCX",
+        "hex": "#6E4F3A",
+        "name": "Bison",
+        "type": ["synthetic"]
+      },
+      {
+        "pantoneId": "11-0601 TCX",
+        "hex": "#F4F9FF",
+        "name": "Bright White",
+        "type": ["natural", "synthetic"]
+      },
+      {
+        "pantoneId": "14-4530 TN",
+        "hex": "#4DC6E2",
+        "name": "Fluro Blue",
+        "type": ["synthetic"]
+      },
+      {
+        "pantoneId": "16-1650 TN",
+        "hex": "#FF1659",
+        "name": "Fluro Pink",
+        "type": ["synthetic"]
+      },
+      {
+        "pantoneId": "15-1456 TN",
+        "hex": "#FF4F58",
+        "name": "Fluro Coral",
+        "type": ["synthetic"]
+      },
+      {
+        "pantoneId": "16-6230 TN",
+        "hex": "#00C756",
+        "name": "Fluro Green",
+        "type": ["synthetic"]
+      },
+      {
+        "pantoneId": "13-0630 TN",
+        "hex": "#EDFF00",
+        "name": "Fluro Yellow",
+        "type": ["synthetic"]
+      },
+      {
+        "pantoneId": "15-1360 TN",
+        "hex": "#FF6D2B",
+        "name": "Fluro Orange",
+        "type": ["synthetic"]
+      },
+      {
+        "pantoneId": "11-0701 TCX",
+        "hex": "#EDE6DB",
+        "name": "Whisper White",
+        "type": ["natural"]
+      },
+      {
+        "pantoneId": "19-3908 TCX",
+        "hex": "#46434A",
+        "name": "Nine Iron",
+        "type": ["natural"]
+      },
+      {
+        "pantoneId": "16-3915 TCX",
+        "hex": "#98979A",
+        "name": "Alloy",
+        "type": ["natural"]
+      },
+      {
+        "pantoneId": "19-1724 TCX",
+        "hex": "#64242E",
+        "name": "Cabernet",
+        "type": ["natural"]
+      },
+      {
+        "pantoneId": "18-4244 TCX",
+        "hex": "#0061A3",
+        "name": "Directoire Blue",
+        "type": ["natural"]
+      },
+      {
+        "pantoneId": "15-3915 TCX",
+        "hex": "#A5B3CC",
+        "name": "Kentucky Blue",
+        "type": ["natural"]
+      },
+      {
+        "pantoneId": "16-1406 TCX",
+        "hex": "#A89C94",
+        "name": "Atmosphere",
+        "type": ["natural"]
+      },
+      {
+        "pantoneId": "17-1328 TCX",
+        "hex": "#AD8567",
+        "name": "Indian Tan",
+        "type": ["natural"]
+      },
+      {
+        "pantoneId": "18-1248 TCX",
+        "hex": "#B55A30",
+        "name": "Rust",
+        "type": ["natural"]
+      },
+      {
+        "pantoneId": "19-3905 TCX",
+        "hex": "#5F575D",
+        "name": "Rabbit",
+        "type": ["natural"]
+      },
+      {
+        "pantoneId": "18-1716 TCX",
+        "hex": "#854C65",
+        "name": "Damson",
+        "type": ["natural"]
+      },
+      {
+        "pantoneId": "19-3725 TCX",
+        "hex": "#41354D",
+        "name": "Purple Velvet",
+        "type": ["natural"]
+      },
+      {
+        "pantoneId": "19-4050 TCX",
+        "hex": "#1B5091",
+        "name": "Nautical Blue",
+        "type": ["natural"]
+      },
+      {
+        "pantoneId": "19-1656 TCX",
+        "hex": "#8A2232",
+        "name": "Rio Red",
+        "type": ["natural"]
+      },
+      {
+        "pantoneId": "19-0323 TCX",
+        "hex": "#4A5335",
+        "name": "Chive",
+        "type": ["synthetic"]
+      },
+      {
+        "pantoneId": "19-0822 TCX",
+        "hex": "#5A5348",
+        "name": "Tarmac",
+        "type": ["synthetic"]
+      },
+      {
+        "pantoneId": "19-1763 TCX",
+        "hex": "#BD162C",
+        "name": "Racing Red",
+        "type": ["natural", "synthetic"]
+      },
+      {
+        "pantoneId": "18-1048 TCX",
+        "hex": "#704822",
+        "name": "Monk's Robe",
+        "type": ["synthetic"]
+      },
+      {
+        "pantoneId": "16-1363 TCX",
+        "hex": "#E95C20",
+        "name": "Puffin's Bill",
+        "type": ["natural"]
+      },
+      {
+        "pantoneId": "17-1047 TCX",
+        "hex": "#B68F52",
+        "name": "Honey Mustard",
+        "type": ["natural"]
+      },
+      {
+        "pantoneId": "13-0850 TCX",
+        "hex": "#FFD662",
+        "name": "Aspen Gold",
+        "type": ["natural"]
+      },
+      {
+        "pantoneId": "19-5350 TCX",
+        "hex": "#24312D",
+        "name": "Scarab",
+        "type": ["natural"]
+      },
+      {
+        "pantoneId": "18-6024 TCX",
+        "hex": "#207349",
+        "name": "Amazon",
+        "type": ["natural"]
+      },
+      {
+        "pantoneId": "18-2328 TCX",
+        "hex": "#AB3475",
+        "name": "Fuchsia Red",
+        "type": ["natural"]
+      },
+      {
+        "pantoneId": "15-1906 TCX",
+        "hex": "#C89FA5",
+        "name": "Zephyr",
+        "type": ["natural"]
+      },
+      {
+        "pantoneId": "17-6009 TCX",
+        "hex": "#616F65",
+        "name": "Laurel Wreath",
+        "type": ["natural"]
+      },
+      {
+        "pantoneId": "11-0103 TCX",
+        "hex": "#F3ECE0",
+        "name": "Egret",
+        "type": ["natural", "synthetic"]
+      },
+      {
+        "pantoneId": "13-1009 TCX",
+        "hex": "#DAC7AB",
+        "name": "Biscotti",
+        "type": ["synthetic"]
+      },
+      {
+        "pantoneId": "18-4245 TCX",
+        "hex": "#0063B2",
+        "name": "Electric Blue Lemonade",
+        "type": ["synthetic"]
+      },
+      {
+        "pantoneId": "16-2130 TCX",
+        "hex": "#FF3EA5",
+        "name": "Knockout Pink",
+        "type": ["synthetic"]
+      },
+      {
+        "pantoneId": "13-0340 TCX",
+        "hex": "#69FF47",
+        "name": "Green Gecko",
+        "type": ["synthetic"]
+      },
+      {
+        "pantoneId": "19-5914 TCX",
+        "hex": "#3C4E47",
+        "name": "Jungle Green",
+        "type": ["natural"]
+      },
+      {
+        "pantoneId": "19-1241 TCX",
+        "hex": "#754734",
+        "name": "Tortoise Shell",
+        "type": ["natural"]
+      },
+      {
+        "pantoneId": "17-1320 TCX",
+        "hex": "#A68A6D",
+        "name": "Tannin",
+        "type": ["natural"]
+      },
+      {
+        "pantoneId": "14-4102 TCX",
+        "hex": "#C5C6C7",
+        "name": "Glacier Gray",
+        "type": ["natural"]
+      },
+      {
+        "pantoneId": "14-6305 TCX",
+        "hex": "#C1BCAC",
+        "name": "Pelican",
+        "type": ["natural"]
+      },
+      {
+        "pantoneId": "19-3923 TCX",
+        "hex": "#282D3C",
+        "name": "Navy Blazer",
+        "type": ["natural"]
+      },
+      {
+        "pantoneId": "19-3815 TCX",
+        "hex": "#2A293E",
+        "name": "Evening Blue",
+        "type": ["natural"]
+      },
+      {
+        "pantoneId": "19-3901 TCX",
+        "hex": "#4D4B4F",
+        "name": "Magnet",
+        "type": ["natural"]
+      },
+      {
+        "pantoneId": "16-3916 TCX",
+        "hex": "#92949B",
+        "name": "Sleet",
+        "type": ["natural"]
+      },
+      {
+        "pantoneId": "18-1415 TCX",
+        "hex": "#6E4C4B",
+        "name": "Marron",
+        "type": ["synthetic"]
+      },
+      {
+        "pantoneId": "19-3952 TCX",
+        "hex": "#203C7F",
+        "name": "Surf the Web",
+        "type": ["natural"]
+      }
+    ]
+  }
+  
