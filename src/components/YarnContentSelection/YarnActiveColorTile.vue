@@ -8,7 +8,7 @@
     </div>
 
     <div class="text-box">
-      <h4 class="tile-header">{{ colors.hex }}</h4>
+      <p class="tile-header">{{ colors.hex }}</p>
       <p class="tile-sub">{{ colors.name }}</p>
     </div>
     <yarn-library

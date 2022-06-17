@@ -30,7 +30,6 @@ export default {
     pickedClass: "new-pick",
     selectedColor: null,
     colors:yarnColors,
-    count: this.$store.state.name
   }
  },
  methods:{
